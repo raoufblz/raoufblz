@@ -9,7 +9,7 @@ currently making discord bots and trying different things
 
 <h2 align="center"> Activity Graph</h2>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raoufblz&theme=react-dark&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raoufblz&theme=react-dark&count_private=true&hide_border=true&area=true"/>
 </p>
 
 <h2 align="center"> Technologies</h2>
@@ -26,6 +26,6 @@ currently making discord bots and trying different things
 
 <h2 align="center">📊 Profile Summary 📊</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoufblz&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoufblz&count_private=true&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoufblz&theme=github_dark" />
 </p>
