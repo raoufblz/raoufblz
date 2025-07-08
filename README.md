@@ -19,8 +19,8 @@
 
 <h2 align="center"> GitHub Stats:</h2>
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&theme=cyan&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&theme=cyan&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <h2 align="center"> Activity Graph</h2>
