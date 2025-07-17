@@ -50,6 +50,6 @@
 
 <h2 align="center">📊 Profile Summary 📊</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoufblz&count_private=true&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoufblz&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoufblz&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoufblz" />
 </p>
