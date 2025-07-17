@@ -20,8 +20,8 @@
 <h2 align="center"> GitHub Stats:</h2>
 <p align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=raoufblz&hide_border=false"/>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <h2 align="center"> Activity Graph</h2>
@@ -40,6 +40,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 
