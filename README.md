@@ -19,9 +19,9 @@
 
 <h2 align="center"> GitHub Stats:</h2>
 <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=raoufblz&hide_border=false"/>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=raoufblz&hide_border=true"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 <h2 align="center"> Activity Graph</h2>
@@ -51,6 +51,6 @@
 
 <h2 align="center">📊 Profile Summary 📊</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoufblz&count_private=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoufblz" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raoufblz&count_private=true&hide_border=false" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raoufblz&count_private=true" />
 </p>
