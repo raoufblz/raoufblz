@@ -10,15 +10,10 @@
 ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝   ╚═══╝  ╚═╝     ╚══════╝ ╚══════╝╚══════╝
 </pre>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1800&width=700&color=00ffff&lines=Currently+making+discord+bots+and+trying+different+things" alt="Typing animation" />
-</p>
-
 
 <h2 align="center"> GitHub Stats:</h2>
 <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=raoufblz&hide_border=true"/>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img width="350" height="340" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&include_all_commits=true&count_private=true"/>
     <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=false&include_all_commits=true&count_private=true"/>
     
 </p>
