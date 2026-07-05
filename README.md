@@ -13,9 +13,9 @@
 
 <h2 align="center"> GitHub Stats:</h2>
 <p align="center">
-    <img width="350" height="340" src="https://github-readme-stats.vercel.app/api?username=raoufblz&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img width="358" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raoufblz&hide_border=false&include_all_commits=true&count_private=true"/>
-    
+    <img width="350" height="340" src="https://github-stats-extended.vercel.app/api?username=raoufblz&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img width="358" src="https://github-stats-extended.vercel.app/api/top-langs/?username=raoufblz&hide_border=false&include_all_commits=true&count_private=true"/>
+
 </p>
 
 <p align="center">
